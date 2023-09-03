@@ -1,2 +1,18 @@
-# hira-game-py
-Hiragana Learning Game 平假名学习游戏
+# Hiragana Learning Game (Python Version)
+
+```
+----------------------
+Hiragana Learning Game
+    平假名学习游戏
+       /\_/\  
+      ( o.o ) 
+       > ^ <
+     あいうえお
+----------------------
+💡 q: quit, w: wrong list
+```
+
+## Run
+install python3
+
+`python3 main.py`
