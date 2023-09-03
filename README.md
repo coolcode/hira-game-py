@@ -16,3 +16,7 @@ Hiragana Learning Game
 install python3
 
 `python3 main.py`
+
+
+## More
+➡️ Rust version: https://github.com/coolcode/hira-game
